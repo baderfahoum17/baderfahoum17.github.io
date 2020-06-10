@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Oswald";
+    src: url("../fonts/Oswald - TTF.ttf");
+}
+
+.hearts{
+    font: 2.0rem "Oswald", sans-serif;
+}
+
+/*social icons*/
+a.social-icons {
+    color: white;
+    padding: 0 0 100px 0;
+    text-align: center;
+}
+.fa-contact-screen{
+    padding: 1rem;
+    border-radius: 50%;
+    transition: .3s all ease-in;
+}
+.fa-contact-screen:hover{
+    color: #7F525D;
+    cursor: pointer;
+}
+
+.text-title {
+    color: #322025;
+    }
